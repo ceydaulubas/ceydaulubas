@@ -3,7 +3,7 @@
 ### 👩‍💻 Some About Me's for You to Know 
 
 I am Ceyda who after more than 2 years of brand management experience, switched her career into software development thanks to the bootcamp she completed at the end of 2020 in Ironhack Amsterdam.
-You can know me as someone who works as a Jr. software engineer at Adcolony 5 days a week and also tries to improve during the day and on the weekends.
+You can know me as someone who works as a Jr. software engineer at Digital Turbine 5 days a week and also tries to improve during the day and on the weekends.
 
 Apart from personal projects, you'll find some repos when I did at bootcamp in my github page.
 
