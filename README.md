@@ -3,7 +3,7 @@
 ### 👩‍💻 Some About Me's for You to Know 
 
 I am Ceyda who after more than 2 years of brand management experience, switched her career into software development thanks to the bootcamp she completed at the end of 2020 in Ironhack Amsterdam.
-You can know me as someone who works as a Jr. software engineer at Digital Turbine 5 days a week and also tries to improve during the day and on the weekends.
+You can know me as someone who is a self-motivated and enthusiastic software developer.
 
 Apart from personal projects, you'll find some repos when I did at bootcamp in my github page.
 
@@ -11,20 +11,18 @@ Apart from personal projects, you'll find some repos when I did at bootcamp in m
 I cannot say that I have a super knowledge of the languages and tools that I have shared below, but I am interested in them and try to have a deep knowledge.
 
 Languages: Javascript, Typescript <br/>
-Frontend part: HTML, CSS/SASS , ReactJs, Bootstrap, Material UI <br/>
+Frontend part: HTML, CSS/SASS , ReactJs, Bootstrap, Material UI , Styled Components<br/>
 Backend part: Express, Node Js <br/>
 Data: Mongo DB-mongoose <br/>
 Deployment: AWS(EC2, S3) ,Heroku
 
 
-### 🥅 My goals for the upcoming year are:
+### 🥅 My goals for the 6 months are:
 
-- Starting a fullstack project where I can use the tools I've learned and learn new things.
-- Renewing my portfolio.
+- Completing the "By JavaScript: The Definitive Guide, 7th Edition" book
 - Having more proficiency in JS and react.
 - Being a good at typescript.
 - Knowing more about Computer Science topics.
-
 
 <!--
 **ceydaulubas/ceydaulubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
