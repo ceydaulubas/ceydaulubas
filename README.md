@@ -8,7 +8,6 @@ You can know me as someone who is self-motivated and enthusiastic about 2 years 
 Apart from personal projects, you'll find some repos when I did at bootcamp in my github page.
 
 ### 💻 Languages and Tools:
-I cannot say that I have a super knowledge of the languages and tools that I have shared below, but I am interested in them and try to have a deep knowledge.
 
 Languages: Javascript, Typescript <br/>
 Frontend part: HTML, CSS/SASS , ReactJs, Bootstrap, Material UI , Styled Components<br/>
@@ -20,8 +19,7 @@ Deployment: AWS(EC2, S3) ,Heroku
 ### 🥅 My goals for the 6 months are:
 
 - Completing the "By JavaScript: The Definitive Guide, 7th Edition" book
-- Having more proficiency in JS and react.
-- Being a good at typescript.
+- Having more proficiency in JS/ TS and react.
 - Knowing more about Computer Science topics.
 
 <!--
