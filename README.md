@@ -16,12 +16,6 @@ Data: Mongo DB-mongoose <br/>
 Deployment: AWS(EC2, S3) ,Heroku
 
 
-### 🥅 My goals for the 6 months are:
-
-- Completing the "By JavaScript: The Definitive Guide, 7th Edition" book
-- Having more proficiency in JS/ TS and react.
-- Knowing more about Computer Science topics.
-
 <!--
 **ceydaulubas/ceydaulubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
