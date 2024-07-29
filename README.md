@@ -2,10 +2,7 @@
 
 ### 👩‍💻 Some About Me's for You to Know 
 
-I am Ceyda who after more than 2 years of brand management experience, switched her career into software development thanks to the bootcamp she completed at the end of 2020 in Ironhack Amsterdam.
-You can know me as someone who is self-motivated and enthusiastic about 2 years of an experience software developer.
-
-Apart from personal projects, you'll find some repos when I did at bootcamp in my github page.
+Results-driven software developer about 3 years of experience, specializing in frontend technologies. Recognized for fast learning and strong analytical abilities, I am skilled in creating impactful, user-friendly web experiences. Passionate about driving new projects and advancing feature development through effective collaboration, I am excited to leverage my skills to contribute to innovative solutions.
 
 ### 💻 Languages and Tools:
 
