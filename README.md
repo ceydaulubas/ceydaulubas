@@ -1,5 +1,3 @@
-
-
 ###  About Me
 👩‍💻 I'm a software developer focusing on building clean, user-centric web applications and connecting them with solid backend services.
 
