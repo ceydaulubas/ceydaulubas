@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dxqyvjf5r/image/upload/v1772055617/ceyda_portfolio/image/github_p_image.png" alt="Ceyda's Banner" width="100%">
-</p>
+
+
+###  About Me
+👩‍💻 I'm a software developer focusing on building clean, user-centric web applications and connecting them with solid backend services.
+
+🛠️ Lately, I’ve been spending my time diving deeper into Node.js, NestJS, and PostgreSQL to expand my capabilities across the full stack.
+
+✍️ I believe in writing readable, maintainable code, and I like sharing what I learn along the way through technical posts.
 
 ---
-
-### 👩‍💻 About Me
-- ☕ **The Process:** I turn coffee into code and ideas into reality.
-- 🏗️ **The Focus:** I am deeply committed to understanding the "why" and "how" behind every line I write. My goal is to learn from past architectures to better build for the future constantly refining my craft to write code that is not just functional, but clean, readable, and built to last.
-- ✍️ **The Mission:** Sharing my daily learning journey through technical writing, aiming to build maintainable architecture while keeping a curious, "always-a-student" mindset.
-
----
-
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -27,7 +24,9 @@
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
 
